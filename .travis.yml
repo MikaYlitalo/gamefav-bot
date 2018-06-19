@@ -1,0 +1,7 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: A9XCbsjzFTaVv1Komx8sWwHa7wcBf5tg/p/rz+e4fv/T+vd4jvCkTCe7QxuVKcuLcWiMA+RmX/Urok7IJ+0IODRQUQQPiIi+Y4Oq5Sn6Hhmv8GsZ8/K3Tpj/5wNZ8+ec9kRGeL8JJFdMBSkJy1pfx6mhYEnQewHn/WNoCSzvpy3Wo/L5PbkeUjCrPc/hyxHWtr2uns6Wv6A7oFCloaGmUWYk8bkdNYyJPNg1ddCkzh4WvckPiE+PyGXAXXaGWAPtGsJB5ptqkYaa5pHeSGl9mNTwdMBw7o43AwljFiGHZNy08dX0MdyyNwqmx1r4ePcYP8Z3AgmKjXcL2KPvRHBcNV0yoKiyDW+3j/ZW5cYCqORvuW5787rOAppXFhEzb23Urwjw+MWYYIEsLvg7xr05rhe0KxxGSagp1zYZBPbHP9WfE539TYpZjvv3+XtnUgh3F1Fzbe1+oG26ICGBXwYdmPGce76nqFbeNIu5x6eKiawFnIgEHnAfnfwDjtsRq2GwpBapjEJK4/uiv8zYv/fU2EjF/cOA69bIh90lDsEnQy8Z5eLRl/Rcsp8kiWgsSXrUFUY1cvqIREAEknfO2MxM6VqbiZzsgo2NkXVT1kUVb0OKVkf2cx/MovGkfp/Z4EGQ0H4Sdj/tz8C7Eu9+DkZgmK0NB8e8ZnSQmaHbSqXmMNc=
+  app: pacific-refuge-76671
+  on:
+    repo: MikaYlitalo/gamefav-bot
